@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¨´¸8ıÌ¯•­/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÌ¯•­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şıóéùÿÿÿÿ8ıÌ¯•­/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ıÌ¯•­/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Û©ù¹úÿÿÿÿ8ıÌ¯•­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ ¥İüÿÿÿÿ8ıÌ¯•­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­—Ïèúÿÿÿÿ8ıÌ¯•­/
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8Ú§µ•­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­—Ïèúÿÿÿÿ8ıÌ¯•­/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Şıóéùÿÿÿÿ8ıÌ¯•­/
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8ıÌ¯•­/
